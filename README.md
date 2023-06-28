@@ -1,2 +1,2 @@
 # images
-图床
+images upload
